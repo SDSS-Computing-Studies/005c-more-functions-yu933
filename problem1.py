@@ -16,4 +16,4 @@ def converTemp(num, sign):
     if sign == 'C':
         return (num - 32) / 1.8
     else:
-        return num * 1.8 + 32
+        return num * 1.8 - 32
