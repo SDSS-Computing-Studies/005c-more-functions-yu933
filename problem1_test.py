@@ -7,4 +7,5 @@ def test1():
 
 
 def test2():
-    assert problem1.converTemp(32,'F') == 0
+    assert problem1.convertTemp(32,'F') == 0
+    
